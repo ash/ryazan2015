@@ -95,6 +95,10 @@ td.right
 	width: 15%;
 	padding: 0 4em 0 1em;
 }
+.phone
+{
+	white-space: nowrap;
+}
 .hmenu a,
 .hmenu a:visited
 {
